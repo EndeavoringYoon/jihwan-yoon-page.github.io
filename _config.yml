@@ -18,27 +18,29 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Keunhong Park
-name: Keunhong Park
-position: Research Scientist
-email: gsmv8rlm8@mozmail.com
+# _config.yml — project site용
+title: Jihwan Yoon
+name: Jihwan Yoon
+position: Research Scientist, Robot Intelligence Lab (Korea University)
+email: yoonmungchi@korea.ac.kr
 description: |
-  I am a researcher in 3D computer vision and generative AI. I am a founding member at [World Labs](https://www.worldlabs.ai/blog) where we are expanding the frontier of spatial intelligence.
-  I was previously a research scientist at [Google](https://ai.google/research/) where I built technology to [generate 3D assets](https://research.google/blog/bringing-3d-shoppable-products-online-with-generative-ai/) for products on Google Search.
+  I am a researcher in robot design optimization. I am a member of the
+  [Robot Intelligence Lab (RILAB)](https://rilab.korea.ac.kr) at Korea University.
 
-  I received my Ph.D from the [University of Washington](https://grail.cs.washington.edu/) in 2021 where I was advised by
-  [Ali Farhadi](https://homes.cs.washington.edu/~ali/) and
-  [Steve Seitz](https://homes.cs.washington.edu/~seitz/).
+  I received my bachelor's degree from [Korea University](https://www.korea.edu/sites/en/index.do) in 2024.
 
-  My current research interests are primarily in 3D generative AI and diffusion models.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://keunhong.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: KeunhongP
-github_username: keunhong
-google_scholar: HVZb-5oAAAAJ
-google_analytics: G-MFWSBLRKG0
+  My current research interests include humanoid kinematics and
+  learning-based design optimization.
 
-# Build settings
+# 프로젝트 사이트는 baseurl 필수
+baseurl: "/jihwan-yoon-page.github.io"
+url: "https://jihwan-yoon-page.github.io"
+
+twitter_username:
+github_username: EndeavoringYoon
+google_scholar: ""
+google_analytics: ""
+
 theme: minima
 plugins:
   - jekyll-feed
