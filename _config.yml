@@ -36,10 +36,11 @@ description: |
 baseurl: ""
 url: "https://jihwan-yoon-page.github.io"
 
-twitter_username:
+
 github_username: EndeavoringYoon
 google_scholar: ""
 google_analytics: ""
+linkedin_username: jihwan-%E2%80%8Dyoon-29182a365
 
 theme: minima
 plugins:
