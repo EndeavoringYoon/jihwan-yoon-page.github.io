@@ -33,7 +33,7 @@ description: |
   learning-based design optimization.
 
 # 프로젝트 사이트는 baseurl 필수
-baseurl: "/jihwan-yoon-page.github.io"
+baseurl: ""
 url: "https://jihwan-yoon-page.github.io"
 
 twitter_username:
